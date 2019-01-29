@@ -1,0 +1,3 @@
+pepe;$1$MBTtDvEV$KQUbRB5ikauvVWsJccWkQ0;avatar1.jpg
+juan;$1$zTCEPgEQ$W.Jw9r9PottWVlf5ztl1L1;avatar2.jpg
+pedro;$1$pBEiUglO$Nr1nBLvEv5X.uxuJ6QVZ2/;avatar3.jpg

@@ -1,0 +1,142 @@
+.cabecera{
+    background-color: #552084;
+    color: white;
+    height: 100px;
+    margin-top: -22px;
+    margin-left: -8px;
+    margin-right: -14px;
+}
+
+h1,h4{
+    text-align: center;
+}
+
+body{
+    background-color: #fdba21;
+}
+
+.formulario{
+   border: 1px solid;
+   margin-top: 50px;
+   margin-left: 450px;
+   width: 400px;
+   padding-top: 10px;
+   background-color: #8c8c8c;
+}
+
+.mensajeError{
+    margin-left: 450px;
+    color: red;
+    width: 400px;
+    background-color: white;
+    font-size: 30px;
+}
+
+.log{
+    margin-left: 70px;
+}
+
+.boton{
+    width: 150px;
+    margin-left: 110px;
+    background-color: #404040;
+    color: white;
+}
+
+.imagen{
+    margin-left: 320px;
+    height: 100px;
+    width: 200px;
+}
+
+.login{
+    margin-left: 560px;
+}
+
+.registro{
+    margin-left: 240px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav > li {
+    float:left;
+}
+
+.nav li a {
+    color: white;
+    text-align: center;
+    text-decoration:none;
+    padding: 14px 16px;
+    margin-right: 50px;
+    display:block;
+    
+}
+
+.nav li a:hover {
+background-color: black;
+}
+
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:200px;
+    margin-left: 320px;
+}
+
+.nav li:hover > ul {
+    display:block;
+}
+
+.nav li ul li {
+    position:relative;
+    
+}
+
+.nav li ul li ul {
+    right:-10px;
+    top:0px;
+}
+
+
+.noticia{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #f1cb77;
+}
+
+.tituloNoticia{
+    font-size: 20px;
+}
+
+.tituloComentarios{
+    color: red;
+}
+
+.formularioComentario{
+    height: 80px;
+    width: 500px;
+    margin-left: 20%;
+}
+
+.botonComentario{
+    height: 50px;
+    margin-left: 37%;
+    margin-top: 5px;
+}
+
+.divComentario{
+    border: 1px solid black;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
